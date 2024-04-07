@@ -1,0 +1,1 @@
+from .events import Events #falando para o sistema que ele existe e que será o primeiro a ser interpretado (pela ordem de cima para baixo em models)
